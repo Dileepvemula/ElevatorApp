@@ -35,7 +35,6 @@ namespace ElevatorApp.Tests
             Assert.That(_elevator.IsMoving(), Is.False);
         }
         //
-        // // Add more Elevator class test cases as described earlier
         //
         // // Main program test cases
         // [Test]
